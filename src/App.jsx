@@ -15,7 +15,7 @@ function App() {
             <div className="rounded-2xl border border-neutral-200 p-8 bg-white/80">
               <h2 className="text-3xl sm:text-4xl font-bold tracking-tight">Our story</h2>
               <p className="mt-4 text-neutral-700 leading-relaxed">
-                We started Café Aurora with a simple idea: great coffee brings people together. Our team sources exceptional beans from small farms and roasts them in-house every week for peak freshness. Every cup is prepared with care, and every pastry is baked fresh daily by our neighbors down the street. Whether you’re grabbing a quick espresso or lingering with friends, we’re here to make your day a little brighter.
+                Welcome to nasi liwet mbak marni — a cozy spot celebrating hearty Indonesian flavors and warm hospitality. We prepare our dishes fresh daily with carefully selected ingredients. Whether you’re stopping by for a comforting plate of nasi liwet or gathering with friends and family, we’re here to make every visit memorable.
               </p>
             </div>
           </div>
@@ -24,7 +24,7 @@ function App() {
       </main>
       <footer className="border-t border-neutral-200 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-neutral-600">
-          <p>© {new Date().getFullYear()} Café Aurora. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} nasi liwet mbak marni. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <a href="#menu" className="hover:text-amber-700">Menu</a>
             <a href="#about" className="hover:text-amber-700">About</a>

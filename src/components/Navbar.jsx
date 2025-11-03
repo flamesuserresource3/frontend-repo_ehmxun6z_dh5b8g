@@ -1,4 +1,4 @@
-import { Coffee, Phone, MapPin, Clock } from 'lucide-react';
+import { Coffee, Phone, Clock } from 'lucide-react';
 
 function Navbar() {
   return (
@@ -9,7 +9,7 @@ function Navbar() {
             <div className="p-2 rounded-lg bg-amber-100 group-hover:bg-amber-200 transition-colors">
               <Coffee className="h-5 w-5 text-amber-700" />
             </div>
-            <span className="font-semibold text-xl tracking-tight">Café Aurora</span>
+            <span className="font-semibold text-xl tracking-tight">nasi liwet mbak marni</span>
           </a>
           <nav className="hidden md:flex items-center gap-8">
             <a href="#menu" className="text-sm font-medium text-neutral-700 hover:text-amber-700 transition-colors">Menu</a>
